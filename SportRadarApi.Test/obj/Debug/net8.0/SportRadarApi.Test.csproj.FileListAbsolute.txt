@@ -1,0 +1,6 @@
+C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi.Test\obj\Debug\net8.0\SportRadarApi.Test.csproj.AssemblyReference.cache
+C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi.Test\obj\Debug\net8.0\SportRadarApi.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi.Test\obj\Debug\net8.0\SportRadarApi.Test.AssemblyInfoInputs.cache
+C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi.Test\obj\Debug\net8.0\SportRadarApi.Test.AssemblyInfo.cs
+C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi.Test\obj\Debug\net8.0\SportRadarApi.Test.csproj.CoreCompileInputs.cache
+C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi.Test\obj\Debug\net8.0\SportRadarApi.Test.sourcelink.json

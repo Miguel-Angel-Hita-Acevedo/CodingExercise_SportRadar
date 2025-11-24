@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\4imih\\source\\repos\\Exercise_SportRadar\\SportRadarApi.Test\\SportRadarApi.Test.csproj": {}
+    "C:\\Users\\4imih\\source\\repos\\CodingExercise_SportRadar\\SportRadarApi.Test\\SportRadarApi.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\4imih\\source\\repos\\Exercise_SportRadar\\SportRadarApi.Test\\SportRadarApi.Test.csproj": {
+    "C:\\Users\\4imih\\source\\repos\\CodingExercise_SportRadar\\SportRadarApi.Test\\SportRadarApi.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\4imih\\source\\repos\\Exercise_SportRadar\\SportRadarApi.Test\\SportRadarApi.Test.csproj",
+        "projectUniqueName": "C:\\Users\\4imih\\source\\repos\\CodingExercise_SportRadar\\SportRadarApi.Test\\SportRadarApi.Test.csproj",
         "projectName": "SportRadarApi.Test",
-        "projectPath": "C:\\Users\\4imih\\source\\repos\\Exercise_SportRadar\\SportRadarApi.Test\\SportRadarApi.Test.csproj",
+        "projectPath": "C:\\Users\\4imih\\source\\repos\\CodingExercise_SportRadar\\SportRadarApi.Test\\SportRadarApi.Test.csproj",
         "packagesPath": "C:\\Users\\4imih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\4imih\\source\\repos\\Exercise_SportRadar\\SportRadarApi.Test\\obj\\",
+        "outputPath": "C:\\Users\\4imih\\source\\repos\\CodingExercise_SportRadar\\SportRadarApi.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

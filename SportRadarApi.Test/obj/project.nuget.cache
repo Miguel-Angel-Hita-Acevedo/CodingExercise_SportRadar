@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+9hbf/Clq0w=",
+  "dgSpecHash": "BRVPFPRPc8Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\4imih\\source\\repos\\Exercise_SportRadar\\SportRadarApi.Test\\SportRadarApi.Test.csproj",
+  "projectFilePath": "C:\\Users\\4imih\\source\\repos\\CodingExercise_SportRadar\\SportRadarApi.Test\\SportRadarApi.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\4imih\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\4imih\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
