@@ -1,10 +1,3 @@
-C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\rpswa.dswa.cache.json
-C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.AssemblyInfoInputs.cache
-C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.AssemblyInfo.cs
-C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.csproj.CoreCompileInputs.cache
-C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.sourcelink.json
 C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\bin\Debug\net8.0\appsettings.json
 C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\bin\Debug\net8.0\SportRadarApi.staticwebassets.endpoints.json
@@ -20,6 +13,12 @@ C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\bin\Debug\ne
 C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.csproj.AssemblyReference.cache
+C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.AssemblyInfoInputs.cache
+C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.AssemblyInfo.cs
+C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.csproj.CoreCompileInputs.cache
+C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -35,3 +34,4 @@ C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\ne
 C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.pdb
 C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.genruntimeconfig.cache
 C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\ref\SportRadarApi.dll
+C:\Users\4imih\source\repos\CodingExercise_SportRadar\SportRadarApi\obj\Debug\net8.0\SportRadarApi.sourcelink.json

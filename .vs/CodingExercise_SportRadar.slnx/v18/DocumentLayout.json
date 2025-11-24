@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4imih\\source\\repos\\CodingExercise_SportRadar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75895BC8-B1DC-93F5-65CE-3B40AB2B0A64}|SportRadarApi.Test\\SportRadarApi.Test.csproj|c:\\users\\4imih\\source\\repos\\codingexercise_sportradar\\sportradarapi.test\\betservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75895BC8-B1DC-93F5-65CE-3B40AB2B0A64}|SportRadarApi.Test\\SportRadarApi.Test.csproj|solutionrelative:sportradarapi.test\\betservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BetServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\4imih\\source\\repos\\CodingExercise_SportRadar\\SportRadarApi.Test\\BetServiceTest.cs",
+              "RelativeDocumentMoniker": "SportRadarApi.Test\\BetServiceTest.cs",
+              "ToolTip": "C:\\Users\\4imih\\source\\repos\\CodingExercise_SportRadar\\SportRadarApi.Test\\BetServiceTest.cs",
+              "RelativeToolTip": "SportRadarApi.Test\\BetServiceTest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:54:25.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

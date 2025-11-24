@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SportRadarApi.Test/SportRadarApi.Test.csproj" />
+  <Project Path="SportRadarApi/SportRadarApi.csproj" />
+</Solution>

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "BetController",
+    "Method": "AddBet",
+    "RelativePath": "Create/AddBet",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bet",
+        "Type": "SportRadarApi.Domain.Entities.BetDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BetController",
+    "Method": "GetCalendar",
+    "RelativePath": "Create/Bet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
