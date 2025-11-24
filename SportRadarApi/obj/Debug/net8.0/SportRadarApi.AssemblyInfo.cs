@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SportRadarApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b57f2d61823c2dbeb747603d7f0fded368501737")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f6bbe998ea37d36c078f6fa71a6ad5a5a5678f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SportRadarApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SportRadarApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
