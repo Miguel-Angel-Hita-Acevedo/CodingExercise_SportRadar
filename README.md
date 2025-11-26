@@ -20,7 +20,7 @@ dotnet test ../SportRadarApi.Test
 
 ```
 
-Note: Endpoint work properly with postman for example calling the POST endpoint "[urlLocalServer/Create/AddBet]" using a proper body, I deliberately left the GET endpoint on "[urlLocalServer/Create/Bet]" to get an example json that is received correctly on AddBet endpoint.
+Note: Endpoint work properly with postman for example calling the POST endpoint "[urlLocalServer]/Create/AddBet" using a proper body, I deliberately left the GET endpoint on "[urlLocalServer]/Create/Bet" to get an example json that is received correctly on AddBet endpoint.
 
 # Design decisions & trade-offs (queues, ordering, shutdown, idempotency).
 
